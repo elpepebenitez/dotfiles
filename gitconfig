@@ -49,3 +49,5 @@
 [user]
 	email = pepebenitez12@gmail.com
 	name = Jose Benitez
+[init]
+	defaultBranch = main
